@@ -1,0 +1,13 @@
+prebuilds/fullsdk-linux
+prebuilds/fullsdk-darwin
+out
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
