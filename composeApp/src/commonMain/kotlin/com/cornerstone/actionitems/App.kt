@@ -43,7 +43,7 @@ fun App() {
             .padding(8.dp)
     ) {
         composable(route = ActionItemsScreen.Login.name) {
-            LoginScreen()
+            LoginScreen(navController)
         }
         composable(route = ActionItemsScreen.Main.name) {
             MainScreen()
