@@ -11,3 +11,4 @@ build/
 .externalNativeBuild
 .cxx
 .kotlin/
+/kotlin-js-store/yarn.lock
